@@ -1,0 +1,51 @@
+<!-- tables <table></table>
+table row=<tr></tr>
+table -->
+<html>
+    <body>
+        <table border="1" cellpadding="30" width="100%" cellspacing =1>
+            <tr>
+                <th>SNO</th>
+                <th>NAME</th>
+                <th>%</th>
+                <th>CGPA</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Ramu</td>
+                <td>87%</td>
+                <td>8.7</td>
+            </tr>
+            <tr>
+    <td>2</td>
+    <td>sonu</td>
+    <td>48%</td>
+    <td>7.4</td>
+            </tr>
+            <td>3</td>
+    <td>vasu</td>
+    <td>90%</td>
+    <td>9.4</td>
+        </table>
+<table border="1" cellpadding="30" width="100%" cellspacing =1>
+    <tr align="center">
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    </tr>
+    <tr align="center">
+    <td>1</td>
+    <td>
+        table>tr*2>td-$
+    </td>
+    <td>3</td>
+    </tr>
+    <tr align="center">
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    </tr>
+    <h1></h1>
+ </table>
+    </body>
+</html>
