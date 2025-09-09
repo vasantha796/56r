@@ -1,0 +1,18 @@
+
+.container-1{
+    display: flex;     
+   
+}
+.container-2{
+    display:flex;
+    
+    
+}
+img{
+    margin:0%;
+}
+div{
+    object-fit: cover;
+    width: 500px;
+
+}
